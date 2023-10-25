@@ -1,6 +1,6 @@
 <h1>Hi, I'm Joshua! </h1>
-  I am a <a href="https://www.linkedin.com/in/joshua-yao-b802671b2/">Sophomore</a>, pursuing a Bachelor's of Science in 
-  <a href="https://github.com/josyao1">Computer Science</a> and a minor in Economics. 
+I am a <a href="https://www.linkedin.com/in/joshua-yao-b802671b2/">Sophomore</a>, pursuing a Bachelor's of Science in 
+<a href="https://github.com/josyao1">Computer Science</a> and a minor in Economics. 
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
