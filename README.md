@@ -12,7 +12,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-yao-b80
 
 Here are some of the projects I've worked on:
 
-### TBC
+### To be continued
 
 ## Interests 🌟
 
