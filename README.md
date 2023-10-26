@@ -2,7 +2,9 @@
 
 ## About Me 📚
 
-My name is Joshua. I am a sophomore at Northwestern University, pursuing a Bachelor's of Science in Computer Science with a Minor in Economics. My curiosity in Computer Science stemmed from a love for puzzle solving and out of the box thinking. The opportunity to tackle real-world challenges and help others through software engineering by applying my strong programming skills, analytical mindset, and data-driven problem-solving approach is both inspiring and motivational to me and I'm excited to tackle any future projects!
+My name is Joshua. I am a sophomore at Northwestern University, pursuing a Bachelor's of Science in Computer Science with a Minor in Economics. My interests in the computer science world are more in the back-end software development field as well as the Data Science/Analytics field.
+
+My curiosity in Computer Science stems from a love for puzzle solving and out-of-the box thinking. The opportunity to tackle real-world challenges and help others through software engineering by applying my strong programming skills, analytical mindset, and data-driven problem-solving approach is both inspiring and motivational to me, and I'm excited to tackle any future projects!
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-yao-b802671b2/) and [Instagram](https://www.instagram.com/joshyao_/).
 
