@@ -1,10 +1,8 @@
-# Hi, I'm Joshua! 👋
-
-I am a Sophomore pursuing a Bachelor's of Science in Computer Science and a minor in Economics.
+# Welcome to my Portfolio! 👋
 
 ## About Me 📚
 
-I'm a Computer Science major with a passion for technology and a keen interest in economics. I love to explore the intersection of these two fields and develop solutions that have a positive impact on society. 
+My name is Joshua. I am a sophomore at Northwestern University, pursuing a Bachelor's of Science in Computer Science with a Minor in Economics. My curiosity in Computer Science stemmed from a love for puzzle solving and out of the box thinking. The opportunity to tackle real-world challenges and help others through software engineering by applying my strong programming skills, analytical mindset, and data-driven problem-solving approach is both inspiring and motivational to me and I'm excited to tackle any future projects!
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-yao-b802671b2/) and [Instagram](https://www.instagram.com/joshyao_/).
 
