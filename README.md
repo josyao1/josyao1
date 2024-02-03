@@ -19,8 +19,6 @@ Here are some of the projects I've worked on:
 </br>[Asteroid](https://github.com/josyao1/asteroids)
 </br>[Fantasy Football Forecaster]()
 
-### To be continued
-
 ## Interests 🌟
 
 I have a wide range of interests and hobbies including:
