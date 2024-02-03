@@ -16,8 +16,8 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-yao-b80
 Here are some of the projects I've worked on:
 
 [Snake](https://github.com/josyao1/snake/tree/main/Snake)
-[Asteroid](https://github.com/josyao1/asteroids)
-[Fantasy Football Forecaster]()
+</br>[Asteroid](https://github.com/josyao1/asteroids)
+</br>[Fantasy Football Forecaster]()
 
 ### To be continued
 
