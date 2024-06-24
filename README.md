@@ -36,7 +36,7 @@ I'm always open to new opportunities and collaborations. If you share any of the
 You can reach out to me on LinkedIn and Instagram:
 
 [<img align="left" alt="Joshua Yao | LinkedIn" width="22px" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" />][linkedin]
-[<img align="left" alt="Joshua Yao | Instagram" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-logo-png-full-colour-glyph.png" />][instagram]
+[<img align="left" alt="Joshua Yao | Instagram" width="22px" src="https://i.pinimg.com/736x/6a/39/8e/6a398e2bffd61024b7fa8c6eaf6a4e62.jpg" />][instagram]
 
 [instagram]: https://www.instagram.com/joshyao_/
 [linkedin]: https://www.linkedin.com/in/joshua-yao-b802671b2/
