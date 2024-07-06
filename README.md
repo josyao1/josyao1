@@ -17,7 +17,8 @@ Here are some of the projects I've worked on:
 
 [Snake](https://github.com/josyao1/snake/tree/main/Snake)
 </br>[Asteroid](https://github.com/josyao1/asteroids)
-</br>[Fantasy Football Forecaster](https://github.com/josyao1/fantasyFootballML/blob/main/README.md)
+</br>[Fantasy Football Performace Forecaster](https://github.com/josyao1/fantasyFootballML/blob/main/README.md)
+</br>[Sentiment Analysis ML Project](https://github.com/josyao1/sentiment-analysis/tree/main)
 
 ## Interests 🌟
 
