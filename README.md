@@ -19,6 +19,7 @@ Here are some of the projects I've worked on:
 </br>[Asteroid](https://github.com/josyao1/asteroids)
 </br>[Fantasy Football Performace Forecaster](https://github.com/josyao1/fantasyFootballML/blob/main/README.md)
 </br>[Sentiment Analysis ML Project](https://github.com/josyao1/sentiment-analysis/tree/main)
+</br>[Number Recognition Project](https://github.com/josyao1/number-recognition)
 
 ## Interests 🌟
 
