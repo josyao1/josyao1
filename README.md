@@ -6,8 +6,9 @@ My name is Joshua. I am a sophomore at Northwestern University, pursuing a Bache
 
 My curiosity in Computer Science stems from a love for puzzle solving and out-of-the box thinking. The opportunity to tackle real-world challenges and help others through software engineering by applying my strong programming skills, analytical mindset, and data-driven problem-solving approach is both inspiring and motivational to me, and I'm excited to tackle any future projects!
 
-**Experienced Programming Languages/Libraries**: Python, Pandas, Altair, Tensorflow, Keras, Java 
-</br>**Intermediate Programming Languages/Softwares**: SQL, C++, R, HTML, Tableau, Racket, Scala 
+**Tools**: Git, Docker, AWS, Node.js, React, Express, Postman, MySQL, NPM, Linux, Tableau, Tensorflow, Matlab
+</br>**Technologies**: Backend Systems, APIs, Cloud Infrastructure, Web Development, Machine Learning, Robotics
+</br>**Languages**: Java, SQL, Python, Javascript, C, C++, C#, Go, Assembly, HTML, CSS, Racket, Matlab
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-yao-b802671b2/) and [Instagram](https://www.instagram.com/joshyao_/).
 
