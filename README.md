@@ -2,9 +2,9 @@
 
 ## About Me 📚
 
-My name is Joshua. I am a sophomore at Northwestern University, pursuing a Bachelor's of Science in Computer Science with a Minor in Economics. My interests in the computer science world are more in the back-end software development field as well as the Data Science/Analytics field.
+Hi, I’m Joshua—a junior at Northwestern University pursuing a Bachelor of Science in Computer Science with a minor in Economics. My interests span back-end software development, data analytics, and the intersection of AI with education and healthcare. I’ve worked on impactful projects like SomethingSold, a college-specific marketplace, and I’m actively exploring how AI can enhance teaching and curriculum development through my research with the VILA pipeline.
 
-My curiosity in Computer Science stems from a love for puzzle solving and out-of-the box thinking. The opportunity to tackle real-world challenges and help others through software engineering by applying my strong programming skills, analytical mindset, and data-driven problem-solving approach is both inspiring and motivational to me, and I'm excited to tackle any future projects!
+My passion for computer science stems from a love for problem-solving and creative thinking. Whether it’s building scalable back-end systems, crafting predictive models, or tackling real-world challenges through software, I thrive on opportunities to combine technical expertise with an analytical, data-driven approach. I’m always eager to learn, collaborate, and contribute to meaningful projects that make a difference.
 
 **Tools**: Git, Docker, AWS, Node.js, React, Express, Postman, MySQL, NPM, Linux, Tableau, Tensorflow, Matlab
 </br>**Technologies**: Backend Systems, APIs, Cloud Infrastructure, Web Development, Machine Learning, Robotics
@@ -21,6 +21,7 @@ Here are some of the projects I've worked on:
 </br>[Fantasy Football Performace Forecaster](https://github.com/josyao1/fantasyFootballML/blob/main/README.md)
 </br>[Sentiment Analysis ML Project](https://github.com/josyao1/sentiment-analysis/tree/main)
 </br>[Number Recognition Project](https://github.com/josyao1/number-recognition)
+</br>[Furniture Marketplace Platform](https://github.com/Andy-V12345/SomethingSold)
 
 ## Interests 🌟
 
